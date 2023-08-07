@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @skDuckx
+- 👀 I’m interested in Skript
+- 🌱 I’m currently learning Java
